@@ -1,0 +1,20 @@
+﻿img{
+    background-color: red;
+}
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+.bacon{
+    background-color: green;
+}
+.Brocoli{
+    background-color: red;
+}
+.circular{
+   border-radius: 100%;
+}
+#title{
+    color: blue;
+}
